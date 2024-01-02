@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋, I'm Shibil!<br><br>I'm a passionate Python , specializing in Full stack development. I love coding and enjoy building Scalable Websites. <br><br>🚀 **Quick Overview:**<br>- 🔭 I’m currently working on Python Django Frameword.<br>- 🌱 I’m currently learning ReactJS.<br>- 📫 How to reach me: shibilmhdjr13@gmail.com
+# Hi there 👋, I'm Shibil!
+I'm a passionate Python , specializing in Full stack development. I love coding and enjoy building Scalable Websites. <br><br>🚀 **Quick Overview:**<br>- 🔭 I’m currently working on Python Django Frameword.<br>- 🌱 I’m currently learning ReactJS.<br>- 📫 How to reach me: shibilmhdjr13@gmail.com
 
 
 ## 🌐 Socials:
