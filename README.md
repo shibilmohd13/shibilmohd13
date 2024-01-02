@@ -17,7 +17,7 @@ I'm a passionate Python , specializing in Full stack development. I love coding 
 
 💼 **Connect with Me:**
 - LinkedIn: www.linkedin.com/in/mohammed-shibil-907aa5217
-- Twitter: twitter.com/shibilmohd13_
+- Twitter: https://twitter.com/shibilmohd
 
 🌟 **Let's code something amazing together!**
 
