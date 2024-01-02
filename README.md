@@ -1,27 +1,23 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Shibil!
 
-I'm a passionate [Your Occupation/Title], specializing in [Your Expertise/Field]. I love coding and enjoy building [Type of Projects You Like] projects. 
+I'm a passionate Python , specializing in Full stack development. I love coding and enjoy building Scalable Websites. 
 
 🚀 **Quick Overview:**
-- 🔭 I’m currently working on [Current Project/Work].
-- 🌱 I’m currently learning [Current Learning Focus].
-- 💬 Ask me about [Your Area of Expertise].
-- 📫 How to reach me: [Your Email or Social Media Links].
+- 🔭 I’m currently working on Python Django Frameword.
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me: shibilmhdjr13@gmail.com
 
 🛠️ **Tech Stack:**
-- [Technology/Framework 1]
-- [Technology/Framework 2]
-- [Technology/Framework 3]
+- Python
+- Django
+- React
+- PostgreSQL
 
-🌐 **Portfolio:** [Your Portfolio Link]
-📝 **Blog:** [Your Blog Link]
+🌐 **Portfolio:** https://shibilmohd13.github.io/personal-portfolio/
 
 💼 **Connect with Me:**
-- LinkedIn: [Your LinkedIn Profile Link]
-- Twitter: [Your Twitter Profile Link]
-
-📊 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+- LinkedIn: www.linkedin.com/in/mohammed-shibil-907aa5217
+- Twitter: twitter.com/shibilmohd13_
 
 🌟 **Let's code something amazing together!**
 
