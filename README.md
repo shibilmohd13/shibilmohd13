@@ -59,14 +59,6 @@ Here’s a selection of my favorite projects. For a deeper dive, check out my [G
 - **[HackerRank - Software Engineer Certificate](https://www.hackerrank.com/certificates/b8728f1f8079)** - Covered problem-solving, SQL, and REST API skills.
 
 ---
-
-### 📈 GitHub Stats
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubprofile&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubprofile&layout=compact&theme=radical)
-
----
-
 ### 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohdshibilk13)
